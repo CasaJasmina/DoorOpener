@@ -1,0 +1,42 @@
+[Eagle]
+Version="07 04 00"
+Platform="Mac OS X"
+Serial="62191E841E-LSR-WLM-1EL"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="/Users/Lorenzo/eagle/external_lbrs/AlexW-Eagle-Libraries_mill.lbr"
+UsedLibrary="/Users/Lorenzo/eagle/external_lbrs/esp8266modules_mill.lbr"
+UsedLibrary="/Users/Lorenzo/eagle/external_lbrs/Fablab Eagle Library/esp8266modules.lbr"
+UsedLibrary="/Users/Lorenzo/eagle/external_lbrs/Fablab Eagle Library/AlexW-Eagle-Libraries.lbr"
+UsedLibrary="/Users/Lorenzo/eagle/external_lbrs/Fablab Eagle Library/SparkFun-Eagle-Libraries/SparkFun-Sensors.lbr"
+UsedLibrary="/Users/Lorenzo/eagle/external_lbrs/Fablab Eagle Library/SparkFun-Eagle-Libraries/SparkFun-Electromechanical.lbr"
+UsedLibrary="/Users/Lorenzo/eagle/external_lbrs/Fablab Eagle Library/SparkFun-Eagle-Libraries/SparkFun-Displays.lbr"
+UsedLibrary="/Users/Lorenzo/eagle/external_lbrs/Fablab Eagle Library/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi.lbr"
+UsedLibrary="/Users/Lorenzo/eagle/external_lbrs/Fablab Eagle Library/SparkFun-Eagle-Libraries/SparkFun-DigitalIC.lbr"
+UsedLibrary="/Users/Lorenzo/eagle/external_lbrs/Fablab Eagle Library/SparkFun-Eagle-Libraries/SparkFun-Connectors.lbr"
+UsedLibrary="/Users/Lorenzo/eagle/external_lbrs/Fablab Eagle Library/SparkFun-Eagle-Libraries/SparkFun-Capacitors.lbr"
+UsedLibrary="/Users/Lorenzo/eagle/external_lbrs/Fablab Eagle Library/SparkFun-Eagle-Libraries/SparkFun-Retired.lbr"
+UsedLibrary="/Users/Lorenzo/eagle/external_lbrs/Fablab Eagle Library/SparkFun-Eagle-Libraries/SparkFun-Resistors.lbr"
+UsedLibrary="/Users/Lorenzo/eagle/external_lbrs/Fablab Eagle Library/SparkFun-Eagle-Libraries/SparkFun-RF.lbr"
+UsedLibrary="/Users/Lorenzo/eagle/external_lbrs/Fablab Eagle Library/SparkFun-Eagle-Libraries/SparkFun-PowerIC.lbr"
+UsedLibrary="/Users/Lorenzo/eagle/external_lbrs/Fablab Eagle Library/SparkFun-Eagle-Libraries/SparkFun-Passives_mod.lbr"
+UsedLibrary="/Users/Lorenzo/eagle/external_lbrs/Fablab Eagle Library/SparkFun-Eagle-Libraries/SparkFun-Passives.lbr"
+UsedLibrary="/Users/Lorenzo/eagle/external_lbrs/Fablab Eagle Library/SparkFun-Eagle-Libraries/SparkFun-LED.lbr"
+UsedLibrary="/Users/Lorenzo/eagle/external_lbrs/Fablab Eagle Library/SparkFun-Eagle-Libraries/SparkFun-FreqCtrl.lbr"
+UsedLibrary="/Users/Lorenzo/eagle/external_lbrs/Fablab Eagle Library/SparkFun-Eagle-Libraries/SparkFun-Boards.lbr"
+UsedLibrary="/Users/Lorenzo/eagle/external_lbrs/Fablab Eagle Library/SparkFun-Eagle-Libraries/SparkFun-AnalogIC.lbr"
+UsedLibrary="/Users/Lorenzo/eagle/external_lbrs/Fablab Eagle Library/SparkFun-Eagle-Libraries/SparkFun-Aesthetics.lbr"
+UsedLibrary="/Users/Lorenzo/eagle/external_lbrs/SparkFun-Eagle-Libraries/SparkFun-Resistors.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="4 23 603 422"
+State=2
+Number=0
+
+[Desktop]
+Screen="1280 800"
+Window="Win_1"

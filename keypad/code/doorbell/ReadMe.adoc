@@ -1,0 +1,49 @@
+:Project: Project Name
+:Author: Author Name
+:Email: author-email@example.com
+:Date: 01/01/2000
+:Revision: version
+:License:
+
+_Add some other information about your project!_
+
+=== Installation
+Please describe the steps to install this project.
+
+For example:
+
+1. Open this file
+2. Edit as you like
+3. Release to the World!
+
+=== Folder {Name} structure
+
+....
+ sketch123                => Arduino sketch folder
+  ├── sketch123.ino       => main arduino file
+  ├── schematics.png      => (optional) an image of the required schematics
+  ├── layout.png          => (optional) an image of the layout
+  └── ReadMe.adoc         => this file
+....
+
+....
+ sketchABC                => Linux sketch folder
+  ├── sketch123.ino       => main linux file
+  ├── schematics.png      => (optional) an image of the required schematics
+  ├── layout.png          => (optional) an image of the layout
+  └── ReadMe.adoc         => instructions for linux file
+....
+
+=== License
+This project is released under a {License} License.
+
+=== Contributing
+To contribute to thei project please contact {Author} <{Email}>
+
+=== BOM
+Add the bill of the material you need for this project.
+
+=== Help
+This document is written in the _AsciiDoc_ format, a markup language to describe documents. 
+If you need help you can search the http://www.methods.co.nz/asciidoc[AsciiDoc homepage]
+or consult the http://powerman.name/doc/asciidoc[AsciiDoc cheatsheet]
